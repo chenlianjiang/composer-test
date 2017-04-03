@@ -1,0 +1,13 @@
+{
+    "name": "chenlianjiang/composer-test",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/chenlianjiang/composer-test"
+        }
+    ],
+    "require": {
+        "pimple/pimple": "~3.0"
+    },
+    "version": "1.0.0"
+}
