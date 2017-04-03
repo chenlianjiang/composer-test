@@ -16,7 +16,7 @@
             "email": "770687650@qq.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
 
     "autoload": {
         "psr-4": {
