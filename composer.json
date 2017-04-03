@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Chenlj\\WeBot": "src/"
+            "Chenlj\\WeBot": "src/Chenlj/WeBot"
         }
     }
 }
